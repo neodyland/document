@@ -1,2 +1,3 @@
 # document
-https://docs.neody.land/
+
+<https://docs.neody.land/>
